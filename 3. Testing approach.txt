@@ -1,0 +1,3 @@
+I'd start with Functional testing by cheking all internal links in web pages, any forms for submitting or getting the information from user. First I do it manually.
+
+Find out number of pages. Locate all links on each page. For each page I create a new class which going to contain all links from that page. Make assertinons for each link that it is there and you can open it. Then I do the rest of the pages the same way. After that I do main test which is going to go thorugh the all pages with links. 

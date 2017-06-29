@@ -1,0 +1,29 @@
+#1. 
+
+Email address field accepts empty and invalid email format from "Forgot your password?" page.
+
+Severity: Medium 
+Priority: 
+Status: Open
+
+Description: Email address should not accept empty or wrong formatted data such as data without @ sign. 
+
+Steps:  1. Open https://opengov.com/
+	2. Click Login 
+	3. Click "Forgot your password?"
+	4. Press "Submit"
+
+Expected: Email address should not accept empty or wrong formatted data.
+Submit button should be disabled until valid email address provided. "Invalid email" message should appear
+
+Actual: User is able to Submit an empty field. 
+Precondition: None 
+Workaround: None
+Frequency: 5/5
+Browser: Chrome, FireFox
+Created by: Mikhail Romanenko
+Comments: 
+Assign to:
+Attachment: 
+
+
