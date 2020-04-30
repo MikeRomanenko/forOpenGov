@@ -1,0 +1,54 @@
+https://the-internet.herokuapp.com/disappearing_elements (further "App")
+Test scenarios
+#) check footer on each page of App (powered by link)
+#) check disappearing elements on disappearing_elements page
+#) check header on each page of app (github link)
+#) check all links on app homepage
+#)  
+#)
+#) Check "Basic Auth" function
+#) Check "Challenging DOM" page
+#) Check A/B Testing page
+#) Check Broken Images page
+#) Check checkboxes page
+#) Check Context Menu page
+#) Check Check Drag and drop page
+#) check dropdown page
+#) Check Dynamic Content page
+#) Check Dynamic Loading page
+#) Check Exit Intent page
+#) Check File Download page, files on page
+#) Check File Upload page
+#) Check Floating Menu page
+#) Check Forgot password page, Check retrieve password option (email received)
+#) Check Form authentication page
+#) Check Frames  page
+#) Check Geolocation page, check received coordinates
+#) Check Horizontal Slider  page, Slider, arrows, mouse 
+#) Check Hovers page, links
+#) Check Infinite Scroll  page 
+#) Check JQuery UI Menus page
+#) Check JQery UI page,
+#) Check JavaScript Alerts page 
+#) Check JavaScript onload event error page 
+#) Check Key Presses page
+#) Check Large & Deep DOM page
+#) Check Multiple Windows page, windows/new page 
+#) Check Nested Frames page
+#) Check Notification Messages page 
+#) Check Redirect Link page, links on page 
+#) Check Secure File Download page, files on page
+#) Check Shifting Content  page, ==================================<<<
+#) Check Slow Resources page 
+#) Check Sortable Data Tables page, are tables sortable?
+#) is table "example 1" sortable?
+#) Is table "example 2" sortable?
+#) Check Status Codes  page 
+#) Check status_codes/200 page, links
+#) Check status_codes/301 page, links
+#) Check status_codes/404 page, links
+#) Check status_codes/500 page, links
+#) Check Typos page
+#) Check WYSIWYG Editor page, editor WYSIWYG editor.
+#) repeat all above from mobile device (landscape and portrait mode) 
+#) repeat all above changing window size
